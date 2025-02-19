@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Solving Problems with Code & Creativity.
+Hi there! 👋 I'm Fikry Ramadhan, a passionate Web Developer who loves turning ideas into interactive and scalable web applications. I specialize in both frontend and backend development, ensuring seamless user experiences and efficient system performance.
 
 
 ## 🌐 Socials:
