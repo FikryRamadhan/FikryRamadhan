@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is fikry ramadhan and I'm a Web Developer from Indonesia.</h2>
+<h3 align="left">👨‍💻 Solving Problems with Code & Creativity.</h4>
 
 ###
 
-<div align="center">
+<div align="center" margin="20px">
   <img src="https://github-readme-stats.vercel.app/api?username=FikryRamadhan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&custom_title=FIkry%20Ramadhan%20stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FikryRamadhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -51,7 +52,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/FikryRamadhan/FikryRamadhan/output/snake.svg" alt="Snake animation" />
 
 ###
